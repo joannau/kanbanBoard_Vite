@@ -122,3 +122,6 @@ dist
 .env.test.local
 .env.production.local
 /build
+
+# IDE - VSCode
+.history/
